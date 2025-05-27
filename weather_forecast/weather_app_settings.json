@@ -1,0 +1,14 @@
+{
+    "default_city": "New Delhi",
+    "api_key": "fc3cfaf056bdc92c4a8f43f9858a51a6",
+    "theme": "dark",
+    "data_days": 365,
+    "forecast_days": 7,
+    "recent_cities": [
+        "chennai",
+        "London",
+        "New Delhi",
+        "Bangalore",
+        "Kolkata"
+    ]
+}
